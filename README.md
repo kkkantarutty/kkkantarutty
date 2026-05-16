@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/740585662436343857" > -->
-  <a href="https://egirl.ing/" >
+  <a href="https://www.linkedin.com/in/arthur-cantarutti-279151381/" >
    <img src="https://lanyard.cnrad.dev/api/740585662436343857?showDisplayName=true&bg=a1ecff" />
   </a>
     <br>
