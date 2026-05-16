@@ -100,7 +100,7 @@ There are many more things, but these are the ones I use the most currently.
 
 <div align="center">
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://kkkantarutty.github.io/#hero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cantarutti-279151381/)
 
 </div>
