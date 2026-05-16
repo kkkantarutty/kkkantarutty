@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/740585662436343857" > -->
   <a href="https://egirl.ing/" >
-   <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/740585662436343857?showDisplayName=true&bg=a1ecff)](https://discord.com/users/740585662436343857)" />
+   <img src="https://lanyard.cnrad.dev/api/740585662436343857?showDisplayName=true&bg=a1ecff" />
   </a>
     <br>
   <p>The Eternal Next Day</p>
