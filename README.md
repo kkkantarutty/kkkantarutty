@@ -34,7 +34,7 @@
 <li><b>Hobbies:</b> DevOps, music, gaming</li>
 <li><b>Languages:</b> Portuguese, English, Spanish</li>
 <li><b>Currently studying:</b> Computer Science</li>
-<li><b>LastFM:</b> <a href="https://scrobble.egirl.ing">profile</a></li>
+<li><b>LastFM:</b> <a href="https://www.last.fm/pt/user/kantarutty">profile</a></li>
 </ul>
 
 </td>
